@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "course":"Data Entry",
+        "fee":"5,999",
+        "duration":"3 Month"
+    },
+    {
+        "id":"2",
+        "course":"Web Design",
+        "fee":"9,999",
+        "duration":"6 Month"
+    },
+    {
+        "id":"3",
+        "course":"Web Development",
+        "fee":"17,999",
+        "duration":"6 Month"
+    },
+    {
+        "id":"4",
+        "course":"Python Lenguage",
+        "fee":"5,999",
+        "duration":"6 Month"
+    }
+  
+]
